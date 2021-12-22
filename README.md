@@ -2,7 +2,7 @@
 Open source Android application to calculate how much wrapping paper you need to wrap a present based off its dimensions.
 
 This is a little Android app based off of [@cerchie](https://github.com/Cerchie) Javascript Christmas coding project [Crinkle Crinkle](https://github.com/Cerchie/crinkle-crinkle).
-You can read her fun, endearing article on [on DEV.to](https://dev.to/cerchie/my-family-solves-a-code-challenge-14ea) on DEV.to.
+You can read her fun, endearing article on [on DEV.to](https://dev.to/cerchie/my-family-solves-a-code-challenge-14ea).
 
 License
 -------
